@@ -1,0 +1,6 @@
+{
+  "name": "NevtaBook",
+  "description": "Digital Nevta & Family Event Management app to track received and given nevta, events, reminders, and family records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
